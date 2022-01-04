@@ -1,4 +1,4 @@
-# Andersen_hw3
+# Countries_flags_and_image_view
 1 задание (Countries Flags)
 Необходимо с помощью стандартных контейнеров (FrameLayout/LinearLayout/ConstraintLayout) отобразить на экране флаги следующих стран:
 Австрия, Польша, Италия, Колумбия, Мадагаскар, Таиланд, Дания, Швейцария
